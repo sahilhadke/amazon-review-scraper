@@ -1,0 +1,56 @@
+{
+    "products": [
+        {
+            "product_name": "Rascal + Friends Premium Diapers Size 3, 88 Count,1 Pack, Green,White",
+            "url": "https://www.amazon.com/Rascal-Friends-Premium-Diapers-Count/dp/B0DT78T7M8/ref=sr_1_1",
+            "reviews": [
+                {
+                    "name": "Jay S. W.",
+                    "title": "Better than the named brand",
+                    "date": "Reviewed in the United States on March 5, 2025",
+                    "stars": "5.0",
+                    "product_specs": "",
+                    "verified_purchase": false,
+                    "helpful_statement": "",
+                    "review": "Despite being a generic brand, these diapers are fantastic. They are thick and cover the child whole lower half without leaving marks on the bottom. We particularly like these as over night diapers as they will last the full night, and not leak. Highly recommend these over other brands."
+                },
+                {
+                    "name": "Jay S. W.",
+                    "title": "Better than the named brand",
+                    "date": "Reviewed in the United States on March 5, 2025",
+                    "stars": "5.0",
+                    "product_specs": "",
+                    "verified_purchase": false,
+                    "helpful_statement": "",
+                    "review": "Despite being a generic brand, these diapers are fantastic. They are thick and cover the child whole lower half without leaving marks on the bottom. We particularly like these as over night diapers as they will last the full night, and not leak. Highly recommend these over other brands."
+                }
+            ],
+            "total_review_count": "1",
+            "5_star_rating_percentage": "100%",
+            "4_star_rating_percentage": "0%",
+            "3_star_rating_percentage": "0%",
+            "2_star_rating_percentage": "0%",
+            "1_star_rating_percentage": "0%"
+        },
+        {
+            "product_name": "Rascal + Friends Premium Diapers, Size 1, 108 Count",
+            "url": "https://www.amazon.com/Rascal-Friends-Premium-Diapers-Count/dp/B0DJKH8QWQ/ref=sr_1_2",
+            "reviews": []
+        },
+        {
+            "product_name": "Rascal & Friends 96192 Premium Diapers, Size 2, 96, White",
+            "url": "https://www.amazon.com/Rascal-Friends-96192-Premium-Diapers/dp/B0DT78PSMC/ref=sr_1_3",
+            "reviews": []
+        },
+        {
+            "product_name": "Rascal + Friends Diapers \u212d\ud835\udd2c~\u212d\ud835\udd2c~\ud835\udd2a\ud835\udd22\ud835\udd29\ud835\udd2c\ud835\udd2b Edition Size 4, 72 Count, White",
+            "url": "https://www.amazon.com/Generic-Rascal-Friends-Diapers-%E2%84%AD%F0%9D%94%AC-%E2%84%AD%F0%9D%94%AC-%F0%9D%94%AA%F0%9D%94%A2%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%AB/dp/B0D4JXX7PH/ref=sr_1_4",
+            "reviews": []
+        },
+        {
+            "product_name": "Rascal + Friends Premium Diapers, Size 1, 108 Count",
+            "url": "https://www.amazon.com/Rascal-Friends-Premium-Diapers-Count/dp/B0DT75XSYT/ref=sr_1_5",
+            "reviews": []
+        }
+    ]
+}
