@@ -644,7 +644,13 @@
                     "helpful_statement": "",
                     "review": "Not sure if these require some special tequnique but they would blow out most of the time for us. Yes, most of the time :["
                 }
-            ]
+            ],
+            "total_review_count": "213",
+            "5_star_rating_percentage": "64%",
+            "4_star_rating_percentage": "13%",
+            "3_star_rating_percentage": "11%",
+            "2_star_rating_percentage": "4%",
+            "1_star_rating_percentage": "8%"
         }
     ]
 }
